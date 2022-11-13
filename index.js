@@ -95,4 +95,4 @@ client.once('ready', () => {
   console.log('Ready as '+client.user.tag);
 });
 
-client.login(OTk5NzYxNTc2MTI5MjA0Mjg1.G7Vttn.nDAxYrEwwqNcbCYwpG-kxN_QqBePWq8C5a-ANs);
+client.login(token);
